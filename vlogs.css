@@ -1,0 +1,10 @@
+main{
+    display: flex;
+    gap:20px;
+    margin:10%;
+    box-shadow: 0 7px 10px black;
+    border: 1px solid blue;
+}
+header{
+    font-family: cursive;
+}
